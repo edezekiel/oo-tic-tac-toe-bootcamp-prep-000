@@ -1,7 +1,5 @@
 class TicTacToe
 
-  def initalize
-    @board = Array.new(9, " ")
-  end
+board = Array.new(9, " ")
 
 end
